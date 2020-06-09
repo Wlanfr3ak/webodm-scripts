@@ -1,0 +1,5 @@
+Task or Queued Problems?
+./webodm.sh down
+./webodm.sh start
+From: https://community.opendronemap.org/t/clearing-queue-on-processing-node/1207
+
